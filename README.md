@@ -1,6 +1,6 @@
 # Horiseon-Marketing
 
-Horiseon Marketing is a webpage describing best marketing practices. The codebase has been modified to create a logical structure meeting accessibility standards to allow for optimal search of the webpage.
+Horiseon Marketing is a webpage with information and links to specific sections that navigate the user to what they desire to learn regarding best marketing practices. The codebase has been modified to create a logical structure meeting accessibility standards to allow for optimal search of the webpage.
 
 ## Features and Functionality
 
