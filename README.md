@@ -1,6 +1,6 @@
-# Horiseon-Marketing
+# Horiseon Marketing Refactor
 
-Horiseon Marketing is a webpage with information and links to specific sections that navigate the user to what they desire to learn regarding best marketing practices. The codebase has been modified to create a logical structure meeting accessibility standards to allow for optimal search of the webpage.
+Horiseon Marketing is a webpage with information and links to specific sections that navigate the user to what they desire to learn regarding best marketing practices. The codebase has been modified to create a logical structure meeting accessibility and functionality standards to allow for optimal search of the webpage.
 
 ## Features and Functionality
 
@@ -10,13 +10,13 @@ Below is a visualization of the website and its functionality.
 
 ## Deployment Access
 
-https://cianfich1016.github.io/Horiseon-Marketing/
+https://github.com/cianfich1016/Horiseon-Marketing-Refactor
 
 ## License
 
 Library can be found at the following link.
 
-https://github.com/cianfich1016/Horiseon-Marketing
+https://cianfich1016.github.io/Horiseon-Marketing-Refactor/
 
 Initial code borrowed from Trilogy Education Services.
 
