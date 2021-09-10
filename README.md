@@ -12,13 +12,13 @@ Below is a visualization of the webpage. Navigation bar at the top right directs
 
 ## Deployment Access
 
-https://github.com/cianfich1016/Horiseon-Marketing-Refactor
+https://cianfich1016.github.io/Horiseon-Marketing-Refactor/
 
 ## License
 
 Library can be found at the following link.
 
-https://cianfich1016.github.io/Horiseon-Marketing-Refactor/
+https://github.com/cianfich1016/Horiseon-Marketing-Refactor
 
 Initial code borrowed from Trilogy Education Services.
 
