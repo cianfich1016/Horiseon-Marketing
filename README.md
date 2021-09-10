@@ -2,7 +2,7 @@
 
 Horiseon Marketing is a webpage with information and links to specific sections that navigate the user to what they desire to learn regarding best marketing practices. The codebase has been modified to create a logical structure meeting accessibility and functionality standards to allow for optimal search of the webpage.
 
-Semantic elements were added as well as logistical structure rearranged for enhanced readability. The attribute "alt" was added to images. Headings were properly ordered. A concise title was created. Comments were added to both the index.html and the style.css sheet.
+Semantic elements were added as well as logistical structure rearranged for enhanced readability. The attribute "alt" was added to images. Headings were properly ordered. A concise title was created. Comments were added to both the index.html and the style.css sheets.
 
 ## Features and Functionality
 
