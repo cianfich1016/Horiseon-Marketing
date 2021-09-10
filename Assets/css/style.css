@@ -1,21 +1,36 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element Selectors */
 body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Class Selectors */
+/* Some Class Selectors with nested tags */
 .navBar {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #ffffff; 
 }
 
 .navBar h1 {
+    /* Display elements as inline-block */
+    /* Allowed to be placed horizontally versus vertically and height and width can be adjusted and padding noted if added */
     display: inline-block;
     font-size: 48px;
 }
@@ -41,15 +56,6 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -59,11 +65,13 @@ p {
     background-position: center;
 }
 
+/* Element to be positioned on the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Element to be positioned on the right */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -96,6 +104,8 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
+    /* Set elements clear property to both */
+    /* Elements can be pushed to right and left of elements that are floated */
     clear: both;
     float: right;
     width: 20%;
@@ -115,6 +125,8 @@ p {
 }
 
 .benefitTypes img {
+    /* Sets display of image to block */
+    /* Image takes up space available with a line and creates a line break before and after */
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -128,6 +140,7 @@ p {
     text-align: center;
 }
 
+/* Id Selector */
 #firstLineFooter {
     font-size: 20px;
     font-weight: bold;
