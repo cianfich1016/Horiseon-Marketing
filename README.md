@@ -22,6 +22,8 @@ https://github.com/cianfich1016/Horiseon-Marketing-Refactor
 
 Initial code borrowed from Trilogy Education Services.
 
+This project is licensed under the terms of the MIT license.
+
 
 
 
